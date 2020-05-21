@@ -1,0 +1,7 @@
+Teknoloji fabrikası diye bir sınıf olsun.
+ Bu sınıfın metodu telefon fabrikası üretsin olsun. 
+Ve bu teknoloji fabrikasından türeyen bir telefon fabrikası olsun ve bu telefon fabrikası sınıfı model üret metodunu kullansın. 
+Telefon fabrikasının 2 ayrı alt sınıfı olsun. 
+Bunlar IOS telefon ve Android telefon isimli olsun. 
+Ve bu alt sınıflar üst sınıfın metodunu kullansınlar. 
+Java dili ile kodlayınız.
